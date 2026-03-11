@@ -12,9 +12,9 @@ Built with **LangChain + Ollama + Chroma** and a beautiful web interface with **
 
 ### 🎥 Demo Video
 
-Watch how it works in action:
+**Watch how it works in action:**
 
-[![Pizza AI Demo Video](https://youtu.be/gglETHrn-pA)
+[![Pizza AI Demo Video](https://img.youtube.com/vi/gglETHrn-pA/0.jpg)](https://youtu.be/gglETHrn-pA)
 
 > **Replace `YOUR_VIDEO_ID`** with your actual YouTube video ID (instructions below)
 
