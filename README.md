@@ -17,18 +17,18 @@ Built with **LangChain + Ollama + Chroma** and a beautiful web interface with **
 [![Pizza AI Demo Video](https://img.youtube.com/vi/gglETHrn-pA/0.jpg)](https://youtu.be/gglETHrn-pA)
 
 
-### ✨ Features
+###  Features
 
-- ✅ Answers questions using real customer reviews (RAG)
-- ✅ Beautiful modern chat interface (Streamlit)
-- ✅ Runs 100% locally (no internet or API keys needed after setup)
-- ✅ Two versions: Console + Web UI
-- ✅ Smart retrieval of top 5 relevant reviews
-- ✅ Supports questions about crust, service, vegan options, prices, best pizzas, etc.
+-  Answers questions using real customer reviews (RAG)
+-  Beautiful modern chat interface (Streamlit)
+-  Runs 100% locally (no internet or API keys needed after setup)
+-  Two versions: Console + Web UI
+-  Smart retrieval of top 5 relevant reviews
+-  Supports questions about crust, service, vegan options, prices, best pizzas, etc.
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 - **Python 3.12**
 - **LangChain** + **LangChain-Ollama**
@@ -39,7 +39,7 @@ Built with **LangChain + Ollama + Chroma** and a beautiful web interface with **
 
 ---
 
-### 📁 Project Structure
+###  Project Structure
 
 D:\Local_Agent/  
 ├── main.py                 # Original console version  
@@ -53,7 +53,7 @@ D:\Local_Agent/
 
 
 
-### 🚀 Installation (Step-by-Step)
+###  Installation (Step-by-Step)
 
 #### 1. Install Ollama
 - Download from: https://ollama.com/download
@@ -74,7 +74,7 @@ transformer\Scripts\activate
 pip install -r requirements.txt
 pip install streamlit
 
-▶️ How to Run
+ How to Run
 Option A: Beautiful Web Version (Recommended)
 cmdcd /d D:\Local_Agent
 transformer\Scripts\activate
